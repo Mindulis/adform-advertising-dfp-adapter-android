@@ -8,7 +8,7 @@ The Adform DFP adapter can be used to integrate Adform ads into the Google Mobil
 
 1. If you haven't integrated the Google Mobile Ads SDK, please do so, you could find documentation [here](https://developers.google.com/admob/android/quick-start).
 2. You need to import Adform Advertising SDK to your project. Instructions on how to it you can find [here](https://github.com/adform/adform-android-sdk/wiki/Getting-Started).
-3. Download our DFP adapter library and include into your project. You could download it from [here]().         
+3. Download our DFP adapter library and include into your project. You could download it from [here](https://github.com/adform/adform-advertising-dfp-adapter-android/raw/master/AdformDfpAdapter.jar).         
 4. Then you have to configure banner or interstitial custom event in DFP interface. More information on how to do so you can find [here](https://developers.google.com/mobile-ads-sdk/docs/dfp/android/custom-events). There are two very important steps when defining a custom event:
 
 	* You must set master tag id provided by Adform in parameter field.
